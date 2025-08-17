@@ -58,7 +58,6 @@ An **AI-driven expense tracker** built with **React.js + DeepSeek API**, providi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barbatos-Tirpitz&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbatos-Tirpitz&layout=compact&theme=tokyonight)  
 
 ---
