@@ -59,12 +59,10 @@ Features
 
 🛠️ Tech Stack
 
-VB.NET – Core development 
----
-DeepSeek API – Natural language modeling & analytics 
----
-OCR Space API – Optical character recognition for receipts
-
+- **VB.NET** – Core development  
+- **DeepSeek API** – Natural language modeling & analytics  
+- **OCR Space API** – Optical character recognition for receipts  
+  
 [![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-0A84FF?logo=ai&logoColor=white)](https://www.deepseek.com/)
 [![OCR Space](https://img.shields.io/badge/OCR_Space_API-FF6F00?logo=googlelens&logoColor=white)](https://ocr.space/)
