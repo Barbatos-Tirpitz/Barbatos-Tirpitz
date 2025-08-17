@@ -48,8 +48,7 @@ I'm Joben Gabin, I'm a **Computer Science student** and an aspiring **Full-Stack
 - **SQLite / MongoDB** – Database storage for watch history  
 
 ---
-
-### 📌 Badges  
+  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)  
 [![AniList](https://img.shields.io/badge/AniList_API-02A9FF?logo=anilist&logoColor=white)](https://anilist.gitbook.io/anilist-apiv2-docs/)  
