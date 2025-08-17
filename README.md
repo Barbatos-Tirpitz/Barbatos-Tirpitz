@@ -65,9 +65,8 @@ An **AI-driven expense tracker** built with **React.js + DeepSeek API**, providi
 ##  Hobbies & Interests
 
 - 🕹 **Gaming**  
+  [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/RazgrizRevelatIpsum/)
   As *Razgriz* on Steam, I play variety of games like MilSim particularly Squad, Arma 3 and Foxhole;  Grand Strategy Games or 4X games like Total Warhammer 3, Kingdom Crusaders 3, I also love playing with friends and friendslop games like PEAK! 
-[![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/RazgrizRevelatIpsum/)
-
 
 - 🏀 **Basketball & Fitness**  
   I grew up playing basketball as our house is just 4 house away from the basketball court lmao, anyways i also did gym (will comeback once financial capable hehe)
