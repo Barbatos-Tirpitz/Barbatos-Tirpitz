@@ -1,7 +1,7 @@
 ## Yahallloooo!! 👋
 
 💻I'm Joben Gabin, I'm a **Computer Science student** and **Full-Stack Developer** passionate about building practical applications, integrating APIs, and creating smooth user experiences.  
-besides coding i also play games like MilSim
+
 
 🌱 Currently exploring:
 - AI-powered applications
