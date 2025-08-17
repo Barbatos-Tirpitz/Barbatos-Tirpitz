@@ -32,14 +32,11 @@ I'm Joben Gabin, I'm a **Computer Science student** and an aspiring **Full-Stack
 🔹 [**AniTracker**](https://github.com/Barbatos-Tirpitz/AniTracker)  
 🎬 **Anime watch tracker** that integrates with AniList API to help users track their watched episodes, manage progress, and fetch anime details.  
 
----
-
 ###  Features   
 
 - 🌐 **AniList API integration** for anime metadata & posters  
 - 📊 **Progress tracking & episode counts**  
 
----
 
 ### 🛠️ Tech Stack  
 - **Python** – Backend scripting & file handling  
@@ -47,8 +44,7 @@ I'm Joben Gabin, I'm a **Computer Science student** and an aspiring **Full-Stack
 - **AniList API** – Anime details & posters  
 - **SQLite / MongoDB** – Database storage for watch history  
 
----
-  
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)  
 [![AniList](https://img.shields.io/badge/AniList_API-02A9FF?logo=anilist&logoColor=white)](https://anilist.gitbook.io/anilist-apiv2-docs/)  
