@@ -1,6 +1,6 @@
 ## Yahallloooo!! 👋
 
-💻I'm Joben Gabin, I'm a **Computer Science student** and **Full-Stack Developer** passionate about building practical applications, integrating APIs, and creating smooth user experiences.  
+💻I'm Joben Gabin, I'm a **Computer Science student** and an aspiring **Full-Stack Developer** passionate about building practical applications, integrating APIs, and creating smooth user experiences.  
 
 
 🌱 Currently exploring:
