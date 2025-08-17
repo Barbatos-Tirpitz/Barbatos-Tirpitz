@@ -30,12 +30,30 @@ I'm Joben Gabin, I'm a **Computer Science student** and an aspiring **Full-Stack
 ## 🚀 Featured Projects
 
 🔹 [**AniTracker**](https://github.com/Barbatos-Tirpitz/AniTracker)  
-Anime tracking app built with **AniList API** and a clean UI.  
+🎬 **Anime watch tracker** that integrates with AniList API to help users track their watched episodes, manage progress, and fetch anime details.  
 
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) 
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=white)](https://anilist.co/)
+---
+
+###  Features   
+
+- 🌐 **AniList API integration** for anime metadata & posters  
+- 📊 **Progress tracking & episode counts**  
+
+---
+
+### 🛠️ Tech Stack  
+- **Python** – Backend scripting & file handling  
+- **React.js** – Frontend dashboard  
+- **AniList API** – Anime details & posters  
+- **SQLite / MongoDB** – Database storage for watch history  
+
+---
+
+### 📌 Badges  
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)  
+[![AniList](https://img.shields.io/badge/AniList_API-02A9FF?logo=anilist&logoColor=white)](https://anilist.gitbook.io/anilist-apiv2-docs/)  
+[![Database](https://img.shields.io/badge/Database-SQLite/MongoDB-blue?logo=databricks&logoColor=white)](https://www.sqlite.org/index.html)  
 
 ---
 
