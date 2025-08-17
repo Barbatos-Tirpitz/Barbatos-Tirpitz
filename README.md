@@ -49,13 +49,13 @@ A **Python app** that transcribes speech in real time using **Google Speech-to-T
 ---
 
 🔹 [**ChronoPulse**](https://github.com/ethfin/ChronoPulse-Revision)  
-An **AI-driven expense tracker** built with **React.js + DeepSeek API**, providing:  
+An **AI-driven expense tracker** built with **VB.NET + DeepSeek API + OCR Space API**, providing:  
 - Instant expense categorization  
 - Data analytics & insights for smarter budgeting  
 - Personalized savings suggestions  
 - Gamified experience for young users  
 
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)  
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-0A84FF?logo=ai&logoColor=white)](https://www.deepseek.com/)
 
