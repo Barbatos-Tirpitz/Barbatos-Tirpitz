@@ -49,14 +49,23 @@ A **Python app** that transcribes speech in real time using **Google Speech-to-T
 ---
 
 🔹 [**ChronoPulse**](https://github.com/ethfin/ChronoPulse-Revision)  
-An **AI-driven expense tracker** built with **VB.NET + DeepSeek API + OCR Space API**, providing:  
-- Instant expense categorization  
-- Data analytics & insights for smarter budgeting  
-- Personalized savings suggestions  
-- Gamified experience for young users  
+💸 AI-driven expense tracker designed to make budgeting smarter and more engaging.
+Features
 
+- Instant Expense Categorization via OCR Space API
+- Data Analytics & Insights for informed budgeting
+- Personalized Savings Suggestions powered by DeepSeek AI
+- Gamified Experience to boost engagement for young users
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+🛠️ Tech Stack
+
+VB.NET – Core development
+
+DeepSeek API – Natural language modeling & analytics
+
+OCR Space API – Optical character recognition for receipts
+
+[![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-0A84FF?logo=ai&logoColor=white)](https://www.deepseek.com/)
 
 
