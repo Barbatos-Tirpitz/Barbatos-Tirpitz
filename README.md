@@ -1,6 +1,6 @@
 ## Yahallloooo!! 👋
 
-💻I'm Joben Gabin, I'm a **Computer Science student** and an aspiring **Full-Stack Developer** passionate about building practical applications, integrating APIs, and creating smooth user experiences.  
+I'm Joben Gabin, I'm a **Computer Science student** and an aspiring **Full-Stack Developer** passionate about building practical applications, integrating APIs, and creating smooth user experiences.  
 
 
 🌱 Currently exploring:
@@ -13,14 +13,12 @@
 
 ## 🔧 Tech Stack
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Electron.js](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logo=.net&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 **Tools & Platforms**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
@@ -32,10 +30,23 @@
 ## 🚀 Featured Projects
 
 🔹 [**AniTracker**](https://github.com/Barbatos-Tirpitz/AniTracker)  
-Anime tracking app built with **AniList API** and **Vue/React**, showing anime details (episodes, posters, status) in a clean UI.
+Anime tracking app built with **AniList API** and a clean UI.  
+
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) 
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=white)](https://anilist.co/)
+
+---
 
 🔹 [**Live Speech Recognition & Translation App**](https://github.com/Barbatos-Tirpitz/Speech_Recognition_Translation.py)  
-A **Python app** that transcribes speech in real time using **Google Speech-to-Text API** and instantly translates it with **Google Translate API**.
+A **Python app** that transcribes speech in real time using **Google Speech-to-Text API** and instantly translates it with **Google Translate API**.  
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
+[![Google Speech-to-Text](https://img.shields.io/badge/Google%20Speech--to--Text-4285F4?logo=google&logoColor=white)](https://cloud.google.com/speech-to-text) 
+[![Google Translate](https://img.shields.io/badge/Google%20Translate-4285F4?logo=googletranslate&logoColor=white)](https://translate.google.com/)
+
+---
 
 🔹 [**ChronoPulse**](https://github.com/ethfin/ChronoPulse-Revision)  
 An **AI-driven expense tracker** built with **React.js + DeepSeek API**, providing:  
@@ -43,6 +54,11 @@ An **AI-driven expense tracker** built with **React.js + DeepSeek API**, providi
 - Data analytics & insights for smarter budgeting  
 - Personalized savings suggestions  
 - Gamified experience for young users  
+
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-0A84FF?logo=ai&logoColor=white)](https://www.deepseek.com/)
+
 
 ---
 
